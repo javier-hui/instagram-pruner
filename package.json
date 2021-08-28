@@ -1,0 +1,23 @@
+{
+  "name": "instagram-pruner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javier-hui/instagram-pruner.git"
+  },
+  "author": "jay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javier-hui/instagram-pruner/issues"
+  },
+  "homepage": "https://github.com/javier-hui/instagram-pruner#readme",
+  "dependencies": {
+    "jsdom": "^17.0.0",
+    "require-text": "0.0.1"
+  }
+}
